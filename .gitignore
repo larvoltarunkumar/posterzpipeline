@@ -1,0 +1,56 @@
+# README files
+README.md
+*.md
+
+# Vertex AI credentials
+*.json
+!schemas.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Output folders
+excel_output/
+json_output/
+images_input/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+nul
+READMEs/
+example_usage.py

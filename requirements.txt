@@ -1,0 +1,7 @@
+google-cloud-aiplatform
+google-genai
+google-auth
+pandas
+openpyxl
+pydantic
+vertexai
